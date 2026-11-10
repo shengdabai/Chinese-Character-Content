@@ -6,6 +6,7 @@ import html
 import json
 import re
 import shutil
+import tempfile
 import urllib.request
 from dataclasses import dataclass
 from pathlib import Path
@@ -37,6 +38,8 @@ PDF = ROOT / "pdf"
 SITE = ROOT / "docs"
 
 CC_CEDICT_URL = "https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.txt.gz"
+CEDICT_MAX_DOWNLOAD_BYTES = 20 * 1024 * 1024
+CEDICT_MAX_TEXT_BYTES = 100 * 1024 * 1024
 
 
 @dataclass(frozen=True)
@@ -588,13 +591,29 @@ def download_cedict() -> Path | None:
     txt_path = RAW / "cedict_ts.u8"
     if txt_path.exists():
         return txt_path
+
+    def copy_limited(source, target, limit: int) -> None:
+        total = 0
+        while chunk := source.read(min(1024 * 1024, limit - total + 1)):
+            total += len(chunk)
+            if total > limit:
+                raise ValueError("CC-CEDICT size limit exceeded")
+            target.write(chunk)
+
     try:
         print("Downloading CC-CEDICT definitions...")
-        urllib.request.urlretrieve(CC_CEDICT_URL, gz_path)
-        with gzip.open(gz_path, "rb") as src, txt_path.open("wb") as dst:
-            dst.write(src.read())
+        # Publish the cache only after the complete gzip stream passes its CRC check.
+        with tempfile.TemporaryDirectory(prefix=".cedict-", dir=RAW) as directory:
+            pending_gz = Path(directory) / gz_path.name
+            pending_txt = Path(directory) / txt_path.name
+            with urllib.request.urlopen(CC_CEDICT_URL, timeout=30) as response, pending_gz.open("wb") as dst:
+                copy_limited(response, dst, CEDICT_MAX_DOWNLOAD_BYTES)
+            with gzip.open(pending_gz, "rb") as src, pending_txt.open("wb") as dst:
+                copy_limited(src, dst, CEDICT_MAX_TEXT_BYTES)
+            pending_gz.replace(gz_path)
+            pending_txt.replace(txt_path)
         return txt_path
-    except Exception as exc:
+    except (OSError, EOFError, ValueError) as exc:
         print(f"CC-CEDICT download skipped: {exc}")
         return None
 
@@ -954,7 +973,7 @@ def export_data(master: pd.DataFrame, lessons: list[dict[str, object]]) -> None:
     anki_rows = [
         {
             "front": row.character,
-            "back": f"{row.pinyin}<br>{str(row.definition_en)[:180]}<br><small>{row.example_words}</small>",
+            "back": f"{html.escape(str(row.pinyin))}<br>{html.escape(str(row.definition_en)[:180])}<br><small>{html.escape(str(row.example_words))}</small>",
             "tags": row.learning_band.replace(" ", "_").lower(),
         }
         for row in anki.itertuples()
@@ -1613,10 +1632,10 @@ tbody tr:nth-child(even) { background: #f8fafb; }
 
       searchInput.addEventListener('input', applyFilters);
       categoryFilter.addEventListener('change', applyFilters);
-      document.querySelectorAll('[data-rank]').forEach((button) => {{
+      document.querySelectorAll('.filters button[data-rank]').forEach((button) => {{
         button.addEventListener('click', () => {{
           rankLimit = button.dataset.rank;
-          document.querySelectorAll('[data-rank]').forEach((item) => item.classList.remove('active'));
+          document.querySelectorAll('.filters button[data-rank]').forEach((item) => item.classList.remove('active'));
           button.classList.add('active');
           applyFilters();
         }});
