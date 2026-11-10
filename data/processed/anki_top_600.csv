@@ -1,6 +1,6 @@
 ﻿front,back,tags
-的,"de<br>of; ~'s (possessive particle); (used after an attribute when it modifies a noun); (used at the end of a declarative sentence for emphasis); (used after a noun, verb or adjective to<br><small>中的 (zhōng de); 似的 (shì de); 准的 (zhǔn de)</small>",zero_beginner
-一,"yī<br>one; single; a (article); as soon as; entire; whole; all; throughout; ""one"" radical in Chinese characters (Kangxi radical 1); also pr. [yao1] for greater clarity when spelling out <br><small>一一 (yī yī); 一下 (yī xià); 一世 (yī shì)</small>",zero_beginner
+的,"de<br>of; ~&#x27;s (possessive particle); (used after an attribute when it modifies a noun); (used at the end of a declarative sentence for emphasis); (used after a noun, verb or adjective to<br><small>中的 (zhōng de); 似的 (shì de); 准的 (zhǔn de)</small>",zero_beginner
+一,yī<br>one; single; a (article); as soon as; entire; whole; all; throughout; &quot;one&quot; radical in Chinese characters (Kangxi radical 1); also pr. [yao1] for greater clarity when spelling out <br><small>一一 (yī yī); 一下 (yī xià); 一世 (yī shì)</small>,zero_beginner
 了,"le<br>(completed action marker); (modal particle indicating change of state, situation now); (modal particle intensifying preceding clause)<br><small>不了 (bù liǎo); 临了 (lín liǎo); 为了 (wèi le)</small>",zero_beginner
 是,shì<br>to be (followed by substantives only); correct; right; true; (respectful acknowledgement of a command) very well; (adverb for emphatic assertion)<br><small>不是 (bú shì); 可是 (kě shì); 总是 (zǒng shì)</small>,zero_beginner
 不,bù<br>no; not so; (bound form) not; un-<br><small>不是 (bú shì); 不好 (bù hǎo); 不用 (bù yòng)</small>,zero_beginner
@@ -18,7 +18,7 @@
 到,dào<br>to reach; to arrive; to leave for; to go to; to (a place); until (a time); up to (a point); (verb complement indicating arriving at a place or reaching a point); considerate; thoug<br><small>不到 (bú dào); 临到 (lín dào); 做到 (zuò dào)</small>,zero_beginner
 就,jiù<br>(after a suppositional clause) in that case; then; (after a clause of action) as soon as; immediately after; (same as 就是[jiu4 shi4]) merely; nothing else but; simply; just; precise<br><small>俯就 (fǔ jiù); 可就 (kě jiù); 将就 (jiāng jiù)</small>,zero_beginner
 着,zhe<br>a move in chess (Taiwan pr. [zhuo2]); trick; tactic; (dialect) okay; all right; (dialect) to put in; to add<br><small>不着 (bù zhe); 为着 (wèi zhe); 依着 (yī zhe)</small>,zero_beginner
-大,dà<br>big; large; great; older (than another person); eldest (as in 大姐[da4 jie3]); greatly; freely; fully; (dialect) father; (dialect) uncle (father's brother)<br><small>不大 (bù dà); 东大 (dōng dà); 伟大 (wěi dà)</small>,zero_beginner
+大,dà<br>big; large; great; older (than another person); eldest (as in 大姐[da4 jie3]); greatly; freely; fully; (dialect) father; (dialect) uncle (father&#x27;s brother)<br><small>不大 (bù dà); 东大 (dōng dà); 伟大 (wěi dà)</small>,zero_beginner
 们,"men<br>plural marker for pronouns, and nouns referring to individuals<br><small>亚们 (yà men); 亲们 (qīn men); 人们 (rén men)</small>",zero_beginner
 道,"dào<br>road; path (CL:條|条[tiao2],股[gu3]); (bound form) way; reason; principle; (bound form) a skill; an art; a specialization; (Daoism) the Way; the Dao; to say (introducing a direct quot<br><small>一道 (yī dào); 世道 (shì dào); 东道 (dōng dào)</small>",zero_beginner
 那,nà<br>surname Na<br><small>刹那 (chà nà); 支那 (zhī nà); 沙那 (shā nà)</small>,zero_beginner
@@ -62,12 +62,12 @@
 只,zhǐ<br>only; merely; just<br><small>不只 (bù zhǐ); 只好 (zhǐ hǎo); 只当 (zhǐ dāng)</small>,zero_beginner
 生,shēng<br>to grow; to give birth; to produce; to be born; to arise; to occur; to light (a fire); to live; to be alive; life; raw; uncooked; unprocessed; unfamiliar; strange; (bound form) stu<br><small>一生 (yī shēng); 丛生 (cóng shēng); 丧生 (sàng shēng)</small>,zero_beginner
 什,shén<br>what<br><small>什么 (shén me); 什叶 (shén yè); 什器 (shén qì)</small>,zero_beginner
-身,"shēn<br>body; life; oneself; personally; one's morality and conduct; the main part of a structure or body; pregnant; classifier for sets of clothes: suit, twinset; Kangxi radical 158<br><small>一身 (yī shēn); 上身 (shàng shēn); 下身 (xià shēn)</small>",zero_beginner
+身,"shēn<br>body; life; oneself; personally; one&#x27;s morality and conduct; the main part of a structure or body; pregnant; classifier for sets of clothes: suit, twinset; Kangxi radical 158<br><small>一身 (yī shēn); 上身 (shàng shēn); 下身 (xià shēn)</small>",zero_beginner
 头,tóu<br>head; hair style; the top; end; beginning or end; a stub; remnant; chief; boss; side; aspect; first; leading; classifier for pigs or livestock; CL:個|个[ge4]<br><small>一头 (yī tóu); 上头 (shàng tou); 下头 (xià tou)</small>,zero_beginner
 样,"yàng<br>manner; pattern; way; appearance; shape; classifier: kind, type<br><small>一样 (yī yàng); 两样 (liǎng yàng); 像样 (xiàng yàng)</small>",zero_beginner
 事,"shì<br>matter; thing; item; work; affair; CL:件[jian4],樁|桩[zhuang1],回[hui2]<br><small>七事 (qī shì); 万事 (wàn shì); 丑事 (chǒu shì)</small>",zero_beginner
 多,duō<br>many; much; more; a lot of; too many; in excess; (after a numeral) ... odd; how (to what extent) (Taiwan pr. [duo2]); (bound form) multi-; poly-<br><small>众多 (zhòng duō); 几多 (jǐ duō); 基多 (jī duō)</small>,zero_beginner
-己,"jǐ<br>self; oneself; sixth of the ten Heavenly Stems 十天干[shi2 tian1 gan1]; sixth in order; letter ""F"" or Roman ""VI"" in list ""A, B, C"", or ""I, II, III"" etc; hexa<br><small>一己 (yī jǐ); 体己 (tī jǐ); 克己 (kè jǐ)</small>",zero_beginner
+己,"jǐ<br>self; oneself; sixth of the ten Heavenly Stems 十天干[shi2 tian1 gan1]; sixth in order; letter &quot;F&quot; or Roman &quot;VI&quot; in list &quot;A, B, C&quot;, or &quot;I, II, III&quot; etc; hexa<br><small>一己 (yī jǐ); 体己 (tī jǐ); 克己 (kè jǐ)</small>",zero_beginner
 家,jiā<br>used in 傢伙|家伙[jia1 huo5] and 傢俱|家俱[jia1 ju4]<br><small>一家 (yī jiā); 上家 (shàng jiā); 下家 (xià jiā)</small>,zero_beginner
 面,"miàn<br>face; side; surface; aspect; top; classifier for objects with flat surfaces such as drums, mirrors, flags etc<br><small>一面 (yí miàn); 上面 (shàng miàn); 下面 (xià miàn)</small>",zero_beginner
 知,zhī<br>to know; to be aware<br><small>不知 (bù zhī); 了知 (le zhī); 先知 (xiān zhī)</small>,zero_beginner
@@ -78,7 +78,7 @@
 很,"hěn<br>very; quite; (also, often used before an adjective without intensifying its meaning, i.e. as a meaningless syntactic element)<br><small>不很 (bù hěn); 很是 (hěn shì); 得很 (dé hěn)</small>",zero_beginner
 点,diǎn<br>to touch briefly; to tap; to mark with a dot; to check off (on a list); to order (food etc); to select; to mention; to bring up (a topic or person); to hint at; to imply; to admini<br><small>丁点 (dīng diǎn); 中点 (zhōng diǎn); 交点 (jiāo diǎn)</small>,zero_beginner
 前,qián<br>front; forward; ahead; first; top (followed by a number); future; ago; before; BC (e.g. 前293年); former; formerly<br><small>上前 (shàng qián); 之前 (zhī qián); 事前 (shì qián)</small>,zero_beginner
-发,fā<br>to send out; to show (one's feeling); to issue; to develop; to make a bundle of money; classifier for gunshots (rounds)<br><small>下发 (xià fā); 举发 (jǔ fā); 传发 (chuán fā)</small>,zero_beginner
+发,fā<br>to send out; to show (one&#x27;s feeling); to issue; to develop; to make a bundle of money; classifier for gunshots (rounds)<br><small>下发 (xià fā); 举发 (jǔ fā); 传发 (chuán fā)</small>,zero_beginner
 经,jīng<br>surname Jing<br><small>一经 (yī jīng); 业经 (yè jīng); 东经 (dōng jīng)</small>,zero_beginner
 情,qíng<br>(bound form) feelings; emotion; sentiment; passion; (bound form) situation; condition<br><small>七情 (qī qíng); 下情 (xià qíng); 世情 (shì qíng)</small>,zero_beginner
 把,"bǎ<br>to hold; to grasp; to hold a baby in position to help it urinate or defecate; handlebar; classifier: handful, bundle, bunch; classifier for things with handles; (used to put the ob<br><small>个把 (gè bǎ); 倒把 (dǎo bǎ); 刹把 (shā bǎ)</small>",zero_beginner
@@ -113,7 +113,7 @@
 国,guó<br>surname Guo<br><small>中国 (zhōng guó); 美国 (měi guó); 国家 (guó jiā)</small>,hsk1_core
 走,"zǒu<br>to walk; to go; to run; to move (of vehicle); to visit; to leave; to go away; to die (euph.); from; through; away (in compound verbs, such as 撤走[che4 zou3]); to change (shape, form<br><small>走路 (zǒu lù); 走开 (zǒu kāi); 走进 (zǒu jìn)</small>",hsk1_core
 让,"ràng<br>to yield; to permit; to let sb do sth; to have sb do sth; to make sb (feel sad etc); by (indicates the agent in a passive clause, like 被[bei4])<br><small>互让 (hù ràng); 出让 (chū ràng); 割让 (gē ràng)</small>",hsk1_core
-被,"bèi<br>quilt; to cover (with); (literary) to suffer (a misfortune); used to indicate passive voice (placed before the doer of the action like ""by"" in English passive-voice sentences, or, <br><small>包被 (bāo bèi); 垫被 (diàn bèi); 棉被 (mián bèi)</small>",hsk1_core
+被,"bèi<br>quilt; to cover (with); (literary) to suffer (a misfortune); used to indicate passive voice (placed before the doer of the action like &quot;by&quot; in English passive-voice sentences, or, <br><small>包被 (bāo bèi); 垫被 (diàn bèi); 棉被 (mián bèi)</small>",hsk1_core
 给,gěi<br>to; for; for the benefit of; to give; to allow; to do sth (for sb); (grammatical equivalent of 被); (grammatical equivalent of 把); (sentence intensifier)<br><small>交给 (jiāo gěi); 付给 (fù gěi); 传给 (chuán gěi)</small>,hsk1_core
 正,zhèng<br>first month of the lunar year<br><small>严正 (yán zhèng); 中正 (zhōng zhèng); 令正 (lìng zhèng)</small>,hsk1_core
 问,wèn<br>to ask; to inquire<br><small>不问 (bù wèn); 临问 (lín wèn); 借问 (jiè wèn)</small>,hsk1_core
@@ -123,7 +123,7 @@
 法,fǎ<br>France; French; abbr. for 法國|法国[Fa3 guo2]; Taiwan pr. [Fa4]<br><small>不法 (bù fǎ); 中法 (zhōng fǎ); 乘法 (chéng fǎ)</small>,hsk1_core
 才,cái<br>ability; talent; sb of a certain type; a capable individual; then and only then; just now; (before an expression of quantity) only<br><small>不才 (bù cái); 人才 (rén cái); 偏才 (piān cái)</small>,hsk1_core
 几,jǐ<br>small table<br><small>几丁 (jǐ dīng); 几个 (jǐ gè); 几乎 (jī hū)</small>,hsk1_core
-行,"xíng<br>(bound form) row; line; (bound form) line of business; trade; profession; (bound form) commercial firm; (bound form) to rank (first, second etc) among one's siblings (by age); (in <br><small>一行 (yī xíng); 不行 (bù xíng); 丑行 (chǒu xíng)</small>",hsk1_core
+行,"xíng<br>(bound form) row; line; (bound form) line of business; trade; profession; (bound form) commercial firm; (bound form) to rank (first, second etc) among one&#x27;s siblings (by age); (in <br><small>一行 (yī xíng); 不行 (bù xíng); 丑行 (chǒu xíng)</small>",hsk1_core
 三,sān<br>surname San<br><small>三七 (sān qī); 三不 (sān bù); 三世 (sān shì)</small>,hsk1_core
 定,dìng<br>to fix; to set; to make definite; to subscribe to (a newspaper etc); to book (tickets etc); to order (goods etc); to congeal; to coagulate; (literary) definitely<br><small>一定 (yí dìng); 不定 (bù dìng); 人定 (rén dìng)</small>,hsk1_core
 此,cǐ<br>this; these<br><small>为此 (wèi cǐ); 从此 (cóng cǐ); 以此 (yǐ cǐ)</small>,hsk1_core
@@ -133,14 +133,14 @@
 将,"jiāng<br>will; shall; to use; to take; to checkmate; just a short while ago; (introduces object of main verb, used in the same way as 把[ba3])<br><small>上将 (shàng jiàng); 中将 (zhōng jiàng); 主将 (zhǔ jiàng)</small>",hsk1_core
 实,shí<br>real; true; honest; really; solid; fruit; seed; definitely<br><small>不实 (bù shí); 严实 (yán shí); 丽实 (lì shí)</small>,hsk1_core
 同,tóng<br>like; same; similar; together; alike; with<br><small>一同 (yī tóng); 下同 (xià tóng); 不同 (bù tóng)</small>,hsk1_core
-最,"zuì<br>(before an adjective or verb) to the highest degree; (the) most ...; -est; (after 之[zhi1]) best or most extreme example (e.g. 世界之最[shi4 jie4 zhi1 zui4] ""the greatest in the world"")<br><small>最为 (zuì wèi); 最优 (zuì yōu); 最佳 (zuì jiā)</small>",hsk1_core
-本,běn<br>(bound form) root; stem; (bound form) origin; source; (bound form) one's own; this; (bound form) this; the current (year etc); (bound form) original; (bound form) inherent; origina<br><small>书本 (shū běn); 亏本 (kuī běn); 传本 (chuán běn)</small>,hsk1_core
+最,zuì<br>(before an adjective or verb) to the highest degree; (the) most ...; -est; (after 之[zhi1]) best or most extreme example (e.g. 世界之最[shi4 jie4 zhi1 zui4] &quot;the greatest in the world&quot;)<br><small>最为 (zuì wèi); 最优 (zuì yōu); 最佳 (zuì jiā)</small>,hsk1_core
+本,běn<br>(bound form) root; stem; (bound form) origin; source; (bound form) one&#x27;s own; this; (bound form) this; the current (year etc); (bound form) original; (bound form) inherent; origina<br><small>书本 (shū běn); 亏本 (kuī běn); 传本 (chuán běn)</small>,hsk1_core
 向,xiàng<br>surname Xiang<br><small>一向 (yí xiàng); 倾向 (qīng xiàng); 偏向 (piān xiàng)</small>,hsk1_core
 分,fēn<br>to divide; to separate; to distribute; to allocate; to distinguish (good and bad); (bound form) branch of (an organization); sub- (as in 分局[fen1 ju2]); fraction; one tenth (of cert<br><small>万分 (wàn fēn); 三分 (sān fēn); 上分 (shàng fēn)</small>,hsk1_core
 十,shí<br>ten; 10<br><small>七十 (qī shí); 三十 (sān shí); 九十 (jiǔ shí)</small>,hsk1_core
 学,xué<br>to learn; to study; to imitate; science; -ology<br><small>学生 (xué shēng); 学校 (xué xiào); 学习 (xué xí)</small>,hsk1_core
 高,gāo<br>surname Gao<br><small>乐高 (lè gāo); 偏高 (piān gāo); 净高 (jìng gāo)</small>,hsk1_core
-第,"dì<br>(prefix indicating ordinal number, as in 第六[di4 liu4] ""sixth""); (literary) grades in which successful candidates in the imperial examinations were placed; (old) residence of a high<br><small>上第 (shàng dì); 不第 (bù dì); 及第 (jí dì)</small>",hsk1_core
+第,"dì<br>(prefix indicating ordinal number, as in 第六[di4 liu4] &quot;sixth&quot;); (literary) grades in which successful candidates in the imperial examinations were placed; (old) residence of a high<br><small>上第 (shàng dì); 不第 (bù dì); 及第 (jí dì)</small>",hsk1_core
 感,gǎn<br>to feel; to move; to touch; to affect; feeling; emotion; (suffix) sense of ~<br><small>乐感 (yuè gǎn); 传感 (chuán gǎn); 伤感 (shāng gǎn)</small>,hsk1_core
 怎,zěn<br>how<br><small>怎么 (zěn me); 怎样 (zěn yàng); 怎生 (zěn shēng)</small>,hsk1_core
 神,shén<br>God<br><small>传神 (chuán shén); 傩神 (nuó shén); 元神 (yuán shén)</small>,hsk1_core
@@ -194,7 +194,7 @@
 水,shuǐ<br>surname Shui<br><small>上水 (shàng shuǐ); 下水 (xià shuǐ); 中水 (zhōng shuǐ)</small>,hsk2_expansion
 名,míng<br>name; noun (part of speech); place (e.g. among winners); famous; classifier for people<br><small>名字 (míng zì); 有名 (yǒu míng); 名单 (míng dān)</small>,hsk2_expansion
 体,tǐ<br>used in 體己|体己[ti1 ji5]; Taiwan pr. [ti3]<br><small>一体 (yī tǐ); 三体 (sān tǐ); 下体 (xià tǐ)</small>,hsk2_expansion
-呢,"ne<br>(sentence-final particle) used in questions to link back to prior discourse or context (""what about...?"", ""and...?""); (sentence-final particle) indicating that a state or situation<br><small>呢呢 (ne ne); 呢喃 (ní nán); 呢子 (ní zi)</small>",hsk2_expansion
+呢,"ne<br>(sentence-final particle) used in questions to link back to prior discourse or context (&quot;what about...?&quot;, &quot;and...?&quot;); (sentence-final particle) indicating that a state or situation<br><small>呢呢 (ne ne); 呢喃 (ní nán); 呢子 (ní zi)</small>",hsk2_expansion
 东,dōng<br>surname Dong<br><small>东东 (dōng dōng); 东主 (dōng zhǔ); 东亚 (dōng yà)</small>,hsk2_expansion
 叫,jiào<br>to shout; to call; to order; to ask; to be called; by (indicates agent in the passive mood)<br><small>乱叫 (luàn jiào); 叫作 (jiào zuò); 叫做 (jiào zuò)</small>,hsk2_expansion
 西,xī<br>the West; abbr. for Spain 西班牙[Xi1 ban1 ya2]; Spanish<br><small>东西 (dōng xī); 中西 (zhōng xī); 以西 (yǐ xī)</small>,hsk2_expansion
@@ -209,7 +209,7 @@
 位,wèi<br>position; location; place; seat; classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes); (physics) potential<br><small>万位 (wàn wèi); 上位 (shàng wèi); 个位 (gè wèi)</small>,hsk2_expansion
 关,guān<br>surname Guan<br><small>事关 (shì guān); 入关 (rù guān); 公关 (gōng guān)</small>,hsk2_expansion
 机,jī<br>surname Ji<br><small>专机 (zhuān jī); 主机 (zhǔ jī); 乘机 (chéng jī)</small>,hsk2_expansion
-接,jiē<br>to receive; to answer (the phone); to meet or welcome sb; to connect; to catch; to join; to extend; to take one's turn on duty; to take over for sb<br><small>交接 (jiāo jiē); 剪接 (jiǎn jiē); 割接 (gē jiē)</small>,hsk2_expansion
+接,jiē<br>to receive; to answer (the phone); to meet or welcome sb; to connect; to catch; to join; to extend; to take one&#x27;s turn on duty; to take over for sb<br><small>交接 (jiāo jiē); 剪接 (jiǎn jiē); 割接 (gē jiē)</small>,hsk2_expansion
 先,xiān<br>beforehand; first; earlier; at first; originally; for the time being; for now; (prefix) my late (in referring to deceased relatives older than oneself)<br><small>争先 (zhēng xiān); 事先 (shì xiān); 从先 (cóng xiān)</small>,hsk2_expansion
 文,wén<br>surname Wen<br><small>上文 (shàng wén); 中文 (zhōng wén); 互文 (hù wén)</small>,hsk2_expansion
 处,chù<br>to reside; to live; to dwell; to be in; to be situated at; to stay; to get along with; to be in a position of; to deal with; to discipline; to punish<br><small>住处 (zhù chù); 何处 (hé chù); 僻处 (pì chù)</small>,hsk2_expansion
@@ -222,7 +222,7 @@
 师,shī<br>surname Shi<br><small>业师 (yè shī); 为师 (wèi shī); 乐师 (yuè shī)</small>,hsk2_expansion
 者,zhě<br>(after a verb or adjective) one who (is) ...; (after a noun) person involved in ...; -er; -ist; (used after a number or 後|后[hou4] or 前[qian2] to refer to sth mentioned previously);<br><small>业者 (yè zhě); 两者 (liǎng zhě); 二者 (èr zhě)</small>,hsk2_expansion
 安,ān<br>surname An<br><small>安全 (ān quán); 安排 (ān pái); 平安 (píng ān)</small>,hsk2_expansion
-清,qīng<br>Qing (Wade-Giles: Ch'ing) dynasty of China (1644–1911); surname Qing<br><small>不清 (bù qīng); 两清 (liǎng qīng); 乳清 (rǔ qīng)</small>,hsk2_expansion
+清,qīng<br>Qing (Wade-Giles: Ch&#x27;ing) dynasty of China (1644–1911); surname Qing<br><small>不清 (bù qīng); 两清 (liǎng qīng); 乳清 (rǔ qīng)</small>,hsk2_expansion
 刚,gāng<br>hard; firm; strong; just; barely; exactly<br><small>刚一 (gāng yī); 刚体 (gāng tǐ); 刚健 (gāng jiàn)</small>,hsk2_expansion
 跟,gēn<br>heel; to follow closely; to go with; (of a woman) to marry sb; with; compared with; to; towards; and (joining two nouns)<br><small>紧跟 (jǐn gēn); 脚跟 (jiǎo gēn); 跟上 (gēn shàng)</small>,hsk2_expansion
 月,"yuè<br>moon; month; monthly; CL:個|个[ge4],輪|轮[lun2]<br><small>这个月 (zhè ge yuè); 下个月 (xià gè yuè); 月亮 (yuè liàng)</small>",hsk2_expansion
@@ -247,13 +247,13 @@
 使,shǐ<br>to make; to cause; to enable; to use; to employ; to send; to instruct sb to do sth; envoy; messenger<br><small>主使 (zhǔ shǐ); 使出 (shǐ chū); 使劲 (shǐ jìn)</small>,hsk2_expansion
 由,yóu<br>to follow; from; because of; due to; by; via; through; (before a noun and a verb) it is for ... to ...<br><small>不由 (bù yóu); 事由 (shì yóu); 交由 (jiāo yóu)</small>,hsk2_expansion
 受,shòu<br>to receive; to accept; to suffer; subjected to; to bear; to stand; pleasant; (passive marker); (LGBT) bottom<br><small>享受 (xiǎng shòu); 免受 (miǎn shòu); 受业 (shòu yè)</small>,hsk2_expansion
-亲,qīn<br>parent; one's own (flesh and blood); relative; related; marriage; bride; close; intimate; in person; first-hand; in favor of; pro-; to kiss; (Internet slang) dear<br><small>丧亲 (sàng qīn); 亲临 (qīn lín); 亲事 (qīn shì)</small>,hsk2_expansion
+亲,qīn<br>parent; one&#x27;s own (flesh and blood); relative; related; marriage; bride; close; intimate; in person; first-hand; in favor of; pro-; to kiss; (Internet slang) dear<br><small>丧亲 (sàng qīn); 亲临 (qīn lín); 亲事 (qīn shì)</small>,hsk2_expansion
 命,"mìng<br>life; fate; order or command; to assign a name, title etc<br><small>丢命 (diū mìng); 丧命 (sàng mìng); 亡命 (wáng mìng)</small>",hsk2_expansion
 目,mù<br>eye; (literary) to look; to regard; eye (of a net); mesh; mesh size; grit size (abbr. for 目數|目数[mu4 shu4]); item; section; list; catalogue; (taxonomy) order; name; title<br><small>举目 (jǔ mù); 书目 (shū mù); 亚目 (yà mù)</small>,hsk2_expansion
 强,qiáng<br>surname Qiang<br><small>倔强 (jué jiàng); 八强 (bā qiáng); 列强 (liè qiáng)</small>,hsk2_expansion
 男,"nán<br>(bound form) male; baron, the lowest of the five ranks of nobility 五等爵位[wu3 deng3 jue2 wei4]<br><small>剩男 (shèng nán); 型男 (xíng nán); 处男 (chù nán)</small>",hsk2_expansion
 任,rèn<br>surname Ren<br><small>上任 (shàng rèn); 下任 (xià rèn); 专任 (zhuān rèn)</small>,hsk2_expansion
-该,gāi<br>should; ought to; probably; must be; to deserve; to owe; to be sb's turn to do sth; that; the above-mentioned<br><small>不该 (bù gāi); 合该 (hé gāi); 应该 (yīng gāi)</small>,hsk2_expansion
+该,gāi<br>should; ought to; probably; must be; to deserve; to owe; to be sb&#x27;s turn to do sth; that; the above-mentioned<br><small>不该 (bù gāi); 合该 (hé gāi); 应该 (yīng gāi)</small>,hsk2_expansion
 路,lù<br>surname Lu<br><small>一路 (yī lù); 上路 (shàng lù); 中路 (zhōng lù)</small>,hsk2_expansion
 车,chē<br>surname Che<br><small>上车 (shàng chē); 下车 (xià chē); 专车 (zhuān chē)</small>,hsk2_expansion
 今,"jīn<br>now; the present time; current; contemporary; this (day, year etc)<br><small>今世 (jīn shì); 今人 (jīn rén); 今儿 (jīn ér)</small>",hsk2_expansion
@@ -266,7 +266,7 @@
 电,diàn<br>lightning; electricity; electric (bound form); to get (or give) an electric shock; phone call or telegram etc; to send via telephone or telegram etc<br><small>电话 (diàn huà); 电脑 (diàn nǎo); 电梯 (diàn tī)</small>,hsk2_expansion
 世,shì<br>surname Shi<br><small>一世 (yī shì); 万世 (wàn shì); 三世 (sān shì)</small>,hsk2_expansion
 性,"xìng<br>nature; character; property; quality; attribute; sexuality; sex; gender; suffix forming adjective from verb; suffix forming noun from adjective, corresponding to -ness or -ity; ess<br><small>两性 (liǎng xìng); 个性 (gè xìng); 中性 (zhōng xìng)</small>",hsk2_expansion
-表,biǎo<br>exterior surface; family relationship via females; to show (one's opinion); a model; a table (listing information); a form; a meter (measuring sth)<br><small>代表 (dài biǎo); 仪表 (yí biǎo); 体表 (tǐ biǎo)</small>,hsk2_expansion
+表,biǎo<br>exterior surface; family relationship via females; to show (one&#x27;s opinion); a model; a table (listing information); a form; a meter (measuring sth)<br><small>代表 (dài biǎo); 仪表 (yí biǎo); 体表 (tǐ biǎo)</small>,hsk2_expansion
 许,xǔ<br>surname Xu<br><small>不许 (bù xǔ); 也许 (yě xǔ); 些许 (xiē xǔ)</small>,hsk2_expansion
 它,tā<br>it<br><small>其它 (qí tā); 吉它 (jí tā); 它们 (tā men)</small>,hsk2_expansion
 立,lì<br>surname Li<br><small>两立 (liǎng lì); 中立 (zhōng lì); 书立 (shū lì)</small>,hsk2_expansion
@@ -275,7 +275,7 @@
 红,hóng<br>surname Hong<br><small>乔红 (qiáo hóng); 分红 (fēn hóng); 发红 (fā hóng)</small>,hsk2_expansion
 花,huā<br>surname Hua<br><small>乱花 (luàn huā); 供花 (gōng huā); 兰花 (lán huā)</small>,hsk2_expansion
 转,zhuǎn<br>see 轉文|转文[zhuai3 wen2]<br><small>中转 (zhōng zhuǎn); 倒转 (dào zhuǎn); 偏转 (piān zhuǎn)</small>,hsk2_expansion
-总,zǒng<br>(bound form) general; overall; to sum up; in every case; always; invariably; anyway; after all; eventually; sooner or later; surely; (after a person's name) abbr. for 總經理|总经理[zong3<br><small>一总 (yī zǒng); 加总 (jiā zǒng); 总之 (zǒng zhī)</small>,hsk2_expansion
+总,zǒng<br>(bound form) general; overall; to sum up; in every case; always; invariably; anyway; after all; eventually; sooner or later; surely; (after a person&#x27;s name) abbr. for 總經理|总经理[zong3<br><small>一总 (yī zǒng); 加总 (jiā zǒng); 总之 (zǒng zhī)</small>,hsk2_expansion
 算,suàn<br>to calculate; to figure out; to include; to count in; to count; to be valid; to carry weight; to regard as; to consider (to be ...)<br><small>上算 (shàng suàn); 不算 (bù suàn); 估算 (gū suàn)</small>,hsk2_expansion
 城,"chéng<br>city walls; city; town; CL:座[zuo4],道[dao4],個|个[ge4]<br><small>京城 (jīng chéng); 倾城 (qīng chéng); 关城 (guān chéng)</small>",hsk2_expansion
 队,duì<br>squadron; team; group; CL:個|个[ge4]<br><small>主队 (zhǔ duì); 乐队 (yuè duì); 仪队 (yí duì)</small>,hsk2_expansion
@@ -320,7 +320,7 @@
 音,yīn<br>sound; noise; note (of musical scale); tone; news; syllable; reading (phonetic value of a character)<br><small>三音 (sān yīn); 串音 (chuàn yīn); 主音 (zhǔ yīn)</small>,hsk3_expansion
 紧,jǐn<br>tight; strict; close at hand; near; urgent; tense; hard up; short of money; to tighten<br><small>严紧 (yán jǐn); 关紧 (guān jǐn); 加紧 (jiā jǐn)</small>,hsk3_expansion
 指,zhǐ<br>finger; to point at or to; to indicate or refer to; to depend on; to count on; (of hair) to stand on end<br><small>中指 (zhōng zhǐ); 二指 (èr zhǐ); 五指 (wǔ zhǐ)</small>,hsk3_expansion
-拉,lā<br>to pull; to play (a bowed instrument); to drag; to draw; to chat; (coll.) to empty one's bowels<br><small>乌拉 (wū lā); 划拉 (huá lā); 半拉 (bàn lǎ)</small>,hsk3_expansion
+拉,lā<br>to pull; to play (a bowed instrument); to drag; to draw; to chat; (coll.) to empty one&#x27;s bowels<br><small>乌拉 (wū lā); 划拉 (huá lā); 半拉 (bàn lǎ)</small>,hsk3_expansion
 杀,shā<br>to kill; to slay; to murder; to attack; to weaken; to reduce; (dialect) to smart; (used after a verb) extremely<br><small>仇杀 (chóu shā); 他杀 (tā shā); 冲杀 (chōng shā)</small>,hsk3_expansion
 半,bàn<br>half; semi-; incomplete; (after a number) and a half<br><small>一半 (yí bàn); 上半 (shàng bàn); 下半 (xià bàn)</small>,hsk3_expansion
 记,"jì<br>to record; to note; to memorize; to remember; mark; sign; classifier for blows, kicks, shots<br><small>书记 (shū jì); 传记 (zhuàn jì); 侧记 (cè jì)</small>",hsk3_expansion
@@ -409,7 +409,7 @@
 石,"shí<br>surname Shi; abbr. for Shijiazhuang 石家莊|石家庄[Shi2 jia1 zhuang1], the capital of Hebei<br><small>乔石 (qiáo shí); 乱石 (luàn shí); 云石 (yún shí)</small>",hsk3_expansion
 哈,"hā<br>abbr. for 哈薩克斯坦|哈萨克斯坦[Ha1 sa4 ke4 si1 tan3], Kazakhstan; abbr. for 哈爾濱|哈尔滨[Ha1 er3 bin1], Harbin<br><small>二哈 (èr hā); 亚哈 (yà hā); 公哈 (gōng hā)</small>",hsk3_expansion
 夜,yè<br>night<br><small>上夜 (shàng yè); 今夜 (jīn yè); 侵夜 (qīn yè)</small>,hsk3_expansion
-父,fù<br>(bound form) father; (bound form) male relative of father's generation (as in 伯父[bo2 fu4]); (computing) (bound form) parent-<br><small>严父 (yán fù); 丧父 (sàng fù); 为父 (wèi fù)</small>,hsk3_expansion
+父,fù<br>(bound form) father; (bound form) male relative of father&#x27;s generation (as in 伯父[bo2 fu4]); (computing) (bound form) parent-<br><small>严父 (yán fù); 丧父 (sàng fù); 为父 (wèi fù)</small>,hsk3_expansion
 制,zhì<br>system; to control; to regulate<br><small>专制 (zhuān zhì); 产制 (chǎn zhì); 仿制 (fǎng zhì)</small>,hsk3_expansion
 友,yǒu<br>friend<br><small>交友 (jiāo yǒu); 亲友 (qīn yǒu); 会友 (huì yǒu)</small>,hsk3_expansion
 阿,"ā<br>prefix used before monosyllabic names, kinship terms etc to indicate familiarity; used in transliteration; (bound form) Afghanistan (abbr. for 阿富汗[A1 fu4 han4]); (bound form) Alban<br><small>巴阿 (bā ā); 泰阿 (tài ā); 阿三 (ā sān)</small>",hsk3_expansion
@@ -499,7 +499,7 @@
 母,mǔ<br>mother; elderly female relative; origin; source; (of animals) female<br><small>丈母 (zhàng mǔ); 世母 (shì mǔ); 义母 (yì mǔ)</small>,hsk3_expansion
 章,zhāng<br>surname Zhang<br><small>乐章 (yuè zhāng); 像章 (xiàng zhāng); 党章 (dǎng zhāng)</small>,hsk3_expansion
 装,zhuāng<br>adornment; to adorn; dress; clothing; costume (of an actor in a play); to play a role; to pretend; to install; to fix; to wrap (sth in a bag); to load; to pack<br><small>上装 (shàng zhuāng); 下装 (xià zhuāng); 中装 (zhōng zhuāng)</small>,hsk3_expansion
-亮,liàng<br>bright; light; to shine; to flash; loud and clear; to show (one's passport etc); to make public (one's views etc)<br><small>乌亮 (wū liàng); 亮丽 (liàng lì); 亮光 (liàng guāng)</small>,hsk3_expansion
+亮,liàng<br>bright; light; to shine; to flash; loud and clear; to show (one&#x27;s passport etc); to make public (one&#x27;s views etc)<br><small>乌亮 (wū liàng); 亮丽 (liàng lì); 亮光 (liàng guāng)</small>,hsk3_expansion
 客,kè<br>customer; visitor; guest; classifier for servings or portions (when ordering food)<br><small>乘客 (chéng kè); 会客 (huì kè); 住客 (zhù kè)</small>,hsk3_expansion
 照,zhào<br>to shine; to illuminate<br><small>仿照 (fǎng zhào); 依照 (yī zhào); 光照 (guāng zhào)</small>,hsk3_expansion
 乱,luàn<br>in confusion or disorder; in a confused state of mind; disorder; upheaval; riot; illicit sexual relations; to throw into disorder; to mix up; indiscriminate; random; arbitrary<br><small>丧乱 (sāng luàn); 乱世 (luàn shì); 乱丢 (luàn diū)</small>,hsk3_expansion
@@ -532,10 +532,10 @@
 摇,yáo<br>surname Yao<br><small>动摇 (dòng yáo); 后摇 (hòu yáo); 手摇 (shǒu yáo)</small>,hsk3_expansion
 期,qī<br>period; cycle<br><small>上期 (shàng qī); 下期 (xià qī); 不期 (bù qī)</small>,hsk3_expansion
 英,yīng<br>United Kingdom; British; England; English; abbr. for 英國|英国[Ying1 guo2]<br><small>中英 (zhōng yīng); 反英 (fǎn yīng); 撷英 (xié yīng)</small>,hsk3_expansion
-低,dī<br>low; beneath; to lower (one's head); to let droop; to hang down; to incline<br><small>低下 (dī xià); 低丘 (dī qiū); 低于 (dī yú)</small>,hsk3_expansion
+低,dī<br>low; beneath; to lower (one&#x27;s head); to let droop; to hang down; to incline<br><small>低下 (dī xià); 低丘 (dī qiū); 低于 (dī yú)</small>,hsk3_expansion
 帝,dì<br>emperor<br><small>上帝 (shàng dì); 五帝 (wǔ dì); 反帝 (fǎn dì)</small>,hsk3_expansion
 兄,xiōng<br>elder brother<br><small>仁兄 (rén xiōng); 从兄 (cóng xiōng); 令兄 (lìng xiōng)</small>,hsk3_expansion
-背,"bèi<br>to carry on one's back; (fig.) to bear; to shoulder (a burden, blame etc)<br><small>刀背 (dāo bèi); 去背 (qù bèi); 后背 (hòu bèi)</small>",hsk3_expansion
+背,"bèi<br>to carry on one&#x27;s back; (fig.) to bear; to shoulder (a burden, blame etc)<br><small>刀背 (dāo bèi); 去背 (qù bèi); 后背 (hòu bèi)</small>",hsk3_expansion
 持,chí<br>to hold; to grasp; to support; to maintain; to persevere; to manage; to run (i.e. administer); to control<br><small>主持 (zhǔ chí); 争持 (zhēng chí); 住持 (zhù chí)</small>,hsk3_expansion
 爷,yé<br>grandpa; old gentleman<br><small>佛爷 (fó yé); 侃爷 (kǎn yé); 倒爷 (dǎo yé)</small>,hsk3_expansion
 皇,huáng<br>surname Huang<br><small>三皇 (sān huáng); 人皇 (rén huáng); 仓皇 (cāng huáng)</small>,hsk3_expansion
@@ -585,7 +585,7 @@
 掉,"diào<br>to fall; to drop; to lag behind; to lose; to go missing; to reduce; fall (in prices); to lose (value, weight etc); to wag; to swing; to turn; to change; to exchange; to swap; to sh<br><small>丢掉 (diū diào); 乱掉 (luàn diào); 做掉 (zuò diào)</small>",hsk3_expansion
 赶,gǎn<br>to overtake; to catch up with; to hurry; to rush; to try to catch (the bus etc); to drive (cattle etc) forward; to drive (sb) away; to avail oneself of (an opportunity); until; by <br><small>赶上 (gǎn shàng); 赶出 (gǎn chū); 赶到 (gǎn dào)</small>,hsk3_expansion
 忽,hū<br>surname Hu<br><small>倏忽 (shū hū); 忽哨 (hū shào); 忽地 (hū dì)</small>,hsk3_expansion
-注,"zhù<br>(bound form) to pour into; to flow into; to inject; (bound form) to focus (one's spirit, gaze etc) on a single point; to concentrate; (bound form) stake (in gambling); classifier f<br><small>下注 (xià zhù); 专注 (zhuān zhù); 倾注 (qīng zhù)</small>",hsk3_expansion
+注,"zhù<br>(bound form) to pour into; to flow into; to inject; (bound form) to focus (one&#x27;s spirit, gaze etc) on a single point; to concentrate; (bound form) stake (in gambling); classifier f<br><small>下注 (xià zhù); 专注 (zhuān zhù); 倾注 (qīng zhù)</small>",hsk3_expansion
 术,shù<br>method; technique<br><small>仁术 (rén shù); 兽术 (shòu shù); 剑术 (jiàn shù)</small>,hsk3_expansion
 甚,shèn<br>excessive; undue; to exceed; to be more than; very; extremely; (dialect) what; whatever (Taiwan pr. [shen2])<br><small>不甚 (bù shèn); 幸甚 (xìng shèn); 甚且 (shèn qiě)</small>,hsk3_expansion
 差,chà<br>difference; discrepancy; (math.) difference (amount remaining after a subtraction); (literary) a little; somewhat; slightly<br><small>不差 (bù chà); 交差 (jiāo chāi); 价差 (jià chà)</small>,hsk3_expansion
